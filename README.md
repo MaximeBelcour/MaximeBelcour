@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-	<img src="https://github.com/sindresorhus/sindresorhus/raw/master/main.gif">
+	<img src="https://github.com/MaximeBelcour/MaximeBelcour/raw/master/main.gif">
 </div>
 <!--
 **MaximeBelcour/MaximeBelcour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
