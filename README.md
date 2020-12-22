@@ -1,6 +1,10 @@
 ### Hi there 👋
 <div align="center">
-	<img src="https://github.com/MaximeBelcour/MaximeBelcour/blob/main/main.gif">
+	<br>
+	<a href="https://github.com/Little-Groundhog?type=source">
+		<img src="Image.svg" width="800" height="400">
+	</a>
+	<br>
 </div>
 <!--
 **MaximeBelcour/MaximeBelcour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
